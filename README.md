@@ -5,7 +5,7 @@ iOS App Developer | 2+ years of experience | Swift | UIKit | SwiftUI | Combine |
 <br>
 Enjoy to work in a team, develop usefull products, improve business process. Ready to share knowledge with a team.
       <br>
-I’m particularly skilled in Swift and have experience with various architectural patterns such as MVVM and MVP.
+I’m particularly skilled in Swift and have experience with various architectural patterns such as VIPER, MVVM and MVP.
 <br>
 <br>
 Having fun with these stack:
