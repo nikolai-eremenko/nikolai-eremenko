@@ -6,8 +6,6 @@ iOS Developer focused on building clean and maintainable applications using Swif
 
 I enjoy working on scalable architecture, improving app performance and writing maintainable code.
 
-Currently open to iOS Developer opportunities.
-
 ### 🧠 Skills
 
 - **Core** Swift · UIKit · SwiftUI · Combine · async/await
@@ -45,7 +43,10 @@ Swift Concurrency · System Design · CI/CD · Advanced UIKit
 
 ### 📫 Contact
 - Telegram: [@nikolai0dev](https://t.me/nikolai0dev)
+- Email: nikolai.dev@icloud.com
 - LinkedIn: [nikolai-eremenko](https://www.linkedin.com/in/nikolai-eremenko/)
 - Habr Career: [nikolai-dev](https://career.habr.com/nikolai-dev)
+
+💼 Open to Junior / Middle iOS opportunities
 
 </samp>
