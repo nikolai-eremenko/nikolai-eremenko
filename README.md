@@ -1,7 +1,5 @@
 # Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<samp>
-      
+<samp>  
 iOS Developer focused on building clean and maintainable applications using Swift, UIKit and SwiftUI.
 
 I enjoy working on scalable architecture, improving app performance and writing maintainable code.
@@ -48,5 +46,4 @@ Swift Concurrency · System Design · CI/CD · Advanced UIKit
 - Habr Career: [nikolai-dev](https://career.habr.com/nikolai-dev)
 
 💼 Open to Junior / Middle iOS opportunities
-
 </samp>
