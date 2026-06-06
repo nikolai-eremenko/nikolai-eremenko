@@ -43,7 +43,7 @@ Swift Concurrency · System Design · CI/CD · Advanced UIKit
 - Telegram: [@nikolaieremenko](https://t.me/nikolaieremenko)
 - Email: nikolai.dev@icloud.com
 - LinkedIn: [nikolai-eremenko](https://www.linkedin.com/in/nikolai-eremenko/)
-- Habr Career: [nikolai-dev](https://career.habr.com/nikolai-dev)
+- Habr Career: [nikolai-eremenko](https://career.habr.com/nikolai-eremenko)
 
 💼 Open to Junior / Middle iOS opportunities
 </samp>
